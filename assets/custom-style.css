@@ -1,0 +1,47 @@
+.col-md-3.col-sm-6.text-center {
+    border: 1px solid #f2f2f2;
+    padding-bottom: 20px;
+}
+
+li.first.active {
+    padding: 6px 10px;
+    background-color: #f2f2f2;
+    margin-right: 5px;
+    text-align: right;
+}
+.pagination li{ padding:6px;}
+form .col-sm-12.col-md-3 {
+    float: left ;
+    width: 250px ;
+}
+.Access-DetailedDiv {
+    background: #ffffff;
+    padding-bottom: 30px;
+    margin-right: 80px;
+    max-width: 265px;
+    box-shadow: 0 0px 15px 0 rgba(0,0,0,0.4);
+    padding: 20px 10px;
+    height: 350px;
+    border-radius:10px;
+}
+button.btn.btn-primary.btn-block.TryForFreeLink {
+    background: transparent;
+}
+.TryForFreeLink {
+    border: solid 2px #0faee8;
+    color: #0faee8;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.StartNowLinkLink {
+    color: #ffffff;
+    background: #ffa900;
+    font-size: 25px;
+    width: 300px;
+    border-radius: 2px;
+    margin-top: 30px;
+    font-weight: 700;
+}
+.btn-primary:hover{ color: #0069d9; }

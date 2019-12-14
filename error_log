@@ -1,0 +1,11 @@
+[20-Nov-2019 13:00:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ddev60/public_html/trades/application/controllers/Auth.php on line 105
+[21-Nov-2019 06:27:46 UTC] PHP Parse error:  syntax error, unexpected ''wordwrap'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ddev60/public_html/trades/application/core/MY_Controller.php on line 49
+[21-Nov-2019 06:28:03 UTC] PHP Parse error:  syntax error, unexpected ''wordwrap'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ddev60/public_html/trades/application/core/MY_Controller.php on line 49
+[21-Nov-2019 06:28:06 UTC] PHP Parse error:  syntax error, unexpected ''wordwrap'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ddev60/public_html/trades/application/core/MY_Controller.php on line 49
+[21-Nov-2019 07:47:46 UTC] PHP Fatal error:  Function name must be a string in /home/ddev60/public_html/trades/application/controllers/Auth.php on line 118
+[26-Nov-2019 17:01:06 UTC] PHP Fatal error:  Class 'Date' not found in /home/ddev60/public_html/trades/application/views/front/userdashboard/graph.php on line 5
+[26-Nov-2019 17:03:34 UTC] PHP Fatal error:  Class 'Date' not found in /home/ddev60/public_html/trades/application/views/front/userdashboard/graph.php on line 5
+[26-Nov-2019 17:03:39 UTC] PHP Fatal error:  Class 'Date' not found in /home/ddev60/public_html/trades/application/views/front/userdashboard/graph.php on line 5
+[26-Nov-2019 18:23:04 UTC] PHP Fatal error:  Call to undefined function timestamp() in /home/ddev60/public_html/trades/application/views/front/userdashboard/graph.php on line 5
+[28-Nov-2019 11:33:16 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ddev60/public_html/trades/application/controllers/Userdashboard.php on line 68
+[28-Nov-2019 11:33:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ddev60/public_html/trades/application/controllers/Userdashboard.php on line 68
