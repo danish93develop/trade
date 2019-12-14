@@ -1,4 +1,4 @@
-<?phpqqqqqqqqqqqqqqq
+<?php
 /**
  * CodeIgniter
  *
